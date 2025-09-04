@@ -1,0 +1,11 @@
+# ambientes e caches
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# configs/segredos
+.env
